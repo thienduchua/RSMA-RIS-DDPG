@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you have any question, feel free to contact dhua01@qub.ac.uk or ducthienhua@gmail.com."
+authors:
+  - family-names: Hua
+    given-names: Thien Duc
+    orcid: "0009-0004-0567-5880"
+title: "Code for 'Learning-Based Reconfigurable-Intelligent-Surface-Aided Rate-Splitting Multiple Access Networks'"
+version: 1.0
+doi: "10.1109/JIOT.2023.3279196"
+date-released: "2025-03-07"
